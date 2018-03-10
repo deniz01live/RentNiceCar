@@ -1,0 +1,90 @@
+﻿@using RentNiceCar.Models
+@model IEnumerable<RentNiceCar.Models.Invoice>
+@{
+    ViewBag.Title = "Factuur Overzicht:";
+}
+<h2>Factuur Overzicht</h2>
+
+@if (User.IsInRole("Eigenaar") || User.IsInRole("Medewerker"))
+{
+    Html.ActionLink("Manage", "Manage");
+}
+
+<table class="table table-bordered">
+    <tr>
+        <th>
+            Merk
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.VanafDatum)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.TotDatum)
+        </th>
+        <th>
+            Prijs
+        </th>
+        <th>
+            Borg
+        </th>
+        <th>
+            Betaald
+        </th>
+        <th></th>
+    </tr>
+    @foreach (var item in Model.OrderByDescending(x => x.InvoiceId))
+    {
+        Car car = RentNiceCar.Controllers.InvoiceController.GetCarById(item.Kenteken);
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => car.Merk)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.VanafDatum)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TotDatum)
+            </td>
+            <td>
+                @{
+                    if (car != null)
+                    {
+                        var initialPrijs = (item.TotDatum - item.VanafDatum).Days * car.Prijs;
+                        if (item.InleverDatum.HasValue)
+                        {
+                            initialPrijs += (item.VanafDatum - item.InleverDatum.Value).Days * car.Prijs;
+                        }
+                        if (initialPrijs <= car.Prijs)
+                        {
+                            initialPrijs = car.Prijs;
+                        }
+                        var BTW = (initialPrijs / 100) * 21;
+                        @initialPrijs <text>&euro; EUR <br /></text>
+                        <text>BTW: </text>@BTW <text>&euro; EUR <br /></text>
+                        <text>Totaal: </text>@(initialPrijs + BTW) <text>&euro; EUR <br /></text>
+                    }
+                }
+            </td>
+            <td>
+                @if (car != null)
+                {
+                    @car.Borg
+                }
+            </td>
+            <td>
+                @if (item.InleverDatum.HasValue)
+                {
+                    @:Ja
+            }
+                else
+                {
+                    @:Nee
+            }
+            </td>
+            <td>
+                @Html.ActionLink("View", "View", new { id = item.InvoiceId })
+            </td>
+        </tr>
+                    }
+</table>
+

@@ -1,0 +1,403 @@
+c:\users\hesa\documents\visual studio 2017\Projects\RentNiceCar\RentNiceCar\bin\ApplicationInsights.config
+c:\users\hesa\documents\visual studio 2017\Projects\RentNiceCar\RentNiceCar\bin\roslyn\csc.exe
+c:\users\hesa\documents\visual studio 2017\Projects\RentNiceCar\RentNiceCar\bin\roslyn\csc.exe.config
+c:\users\hesa\documents\visual studio 2017\Projects\RentNiceCar\RentNiceCar\bin\roslyn\csc.rsp
+c:\users\hesa\documents\visual studio 2017\Projects\RentNiceCar\RentNiceCar\bin\roslyn\csi.exe
+c:\users\hesa\documents\visual studio 2017\Projects\RentNiceCar\RentNiceCar\bin\roslyn\csi.rsp
+c:\users\hesa\documents\visual studio 2017\Projects\RentNiceCar\RentNiceCar\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\hesa\documents\visual studio 2017\Projects\RentNiceCar\RentNiceCar\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\hesa\documents\visual studio 2017\Projects\RentNiceCar\RentNiceCar\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+c:\users\hesa\documents\visual studio 2017\Projects\RentNiceCar\RentNiceCar\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\hesa\documents\visual studio 2017\Projects\RentNiceCar\RentNiceCar\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+c:\users\hesa\documents\visual studio 2017\Projects\RentNiceCar\RentNiceCar\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\hesa\documents\visual studio 2017\Projects\RentNiceCar\RentNiceCar\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\hesa\documents\visual studio 2017\Projects\RentNiceCar\RentNiceCar\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+c:\users\hesa\documents\visual studio 2017\Projects\RentNiceCar\RentNiceCar\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+c:\users\hesa\documents\visual studio 2017\Projects\RentNiceCar\RentNiceCar\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\hesa\documents\visual studio 2017\Projects\RentNiceCar\RentNiceCar\bin\roslyn\System.AppContext.dll
+c:\users\hesa\documents\visual studio 2017\Projects\RentNiceCar\RentNiceCar\bin\roslyn\System.Collections.Immutable.dll
+c:\users\hesa\documents\visual studio 2017\Projects\RentNiceCar\RentNiceCar\bin\roslyn\System.Diagnostics.StackTrace.dll
+c:\users\hesa\documents\visual studio 2017\Projects\RentNiceCar\RentNiceCar\bin\roslyn\System.IO.FileSystem.dll
+c:\users\hesa\documents\visual studio 2017\Projects\RentNiceCar\RentNiceCar\bin\roslyn\System.IO.FileSystem.Primitives.dll
+c:\users\hesa\documents\visual studio 2017\Projects\RentNiceCar\RentNiceCar\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\hesa\documents\visual studio 2017\Projects\RentNiceCar\RentNiceCar\bin\roslyn\vbc.exe
+c:\users\hesa\documents\visual studio 2017\Projects\RentNiceCar\RentNiceCar\bin\roslyn\vbc.exe.config
+c:\users\hesa\documents\visual studio 2017\Projects\RentNiceCar\RentNiceCar\bin\roslyn\vbc.rsp
+c:\users\hesa\documents\visual studio 2017\Projects\RentNiceCar\RentNiceCar\bin\roslyn\VBCSCompiler.exe
+c:\users\hesa\documents\visual studio 2017\Projects\RentNiceCar\RentNiceCar\bin\roslyn\VBCSCompiler.exe.config
+c:\users\hesa\documents\visual studio 2017\Projects\RentNiceCar\RentNiceCar\bin\RentNiceCar.dll.config
+c:\users\hesa\documents\visual studio 2017\Projects\RentNiceCar\RentNiceCar\bin\RentNiceCar.dll
+c:\users\hesa\documents\visual studio 2017\Projects\RentNiceCar\RentNiceCar\bin\RentNiceCar.pdb
+c:\users\hesa\documents\visual studio 2017\Projects\RentNiceCar\RentNiceCar\bin\Antlr3.Runtime.dll
+c:\users\hesa\documents\visual studio 2017\Projects\RentNiceCar\RentNiceCar\bin\EntityFramework.dll
+c:\users\hesa\documents\visual studio 2017\Projects\RentNiceCar\RentNiceCar\bin\EntityFramework.SqlServer.dll
+c:\users\hesa\documents\visual studio 2017\Projects\RentNiceCar\RentNiceCar\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\hesa\documents\visual studio 2017\Projects\RentNiceCar\RentNiceCar\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\hesa\documents\visual studio 2017\Projects\RentNiceCar\RentNiceCar\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\hesa\documents\visual studio 2017\Projects\RentNiceCar\RentNiceCar\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\hesa\documents\visual studio 2017\Projects\RentNiceCar\RentNiceCar\bin\Microsoft.AI.Web.dll
+c:\users\hesa\documents\visual studio 2017\Projects\RentNiceCar\RentNiceCar\bin\Microsoft.AI.WindowsServer.dll
+c:\users\hesa\documents\visual studio 2017\Projects\RentNiceCar\RentNiceCar\bin\Microsoft.ApplicationInsights.dll
+c:\users\hesa\documents\visual studio 2017\Projects\RentNiceCar\RentNiceCar\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\hesa\documents\visual studio 2017\Projects\RentNiceCar\RentNiceCar\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\hesa\documents\visual studio 2017\Projects\RentNiceCar\RentNiceCar\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\hesa\documents\visual studio 2017\Projects\RentNiceCar\RentNiceCar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\hesa\documents\visual studio 2017\Projects\RentNiceCar\RentNiceCar\bin\Microsoft.Owin.dll
+c:\users\hesa\documents\visual studio 2017\Projects\RentNiceCar\RentNiceCar\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\hesa\documents\visual studio 2017\Projects\RentNiceCar\RentNiceCar\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\hesa\documents\visual studio 2017\Projects\RentNiceCar\RentNiceCar\bin\Microsoft.Owin.Security.dll
+c:\users\hesa\documents\visual studio 2017\Projects\RentNiceCar\RentNiceCar\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\hesa\documents\visual studio 2017\Projects\RentNiceCar\RentNiceCar\bin\Microsoft.Owin.Security.Google.dll
+c:\users\hesa\documents\visual studio 2017\Projects\RentNiceCar\RentNiceCar\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\hesa\documents\visual studio 2017\Projects\RentNiceCar\RentNiceCar\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\hesa\documents\visual studio 2017\Projects\RentNiceCar\RentNiceCar\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\hesa\documents\visual studio 2017\Projects\RentNiceCar\RentNiceCar\bin\Microsoft.Web.Infrastructure.dll
+c:\users\hesa\documents\visual studio 2017\Projects\RentNiceCar\RentNiceCar\bin\Newtonsoft.Json.dll
+c:\users\hesa\documents\visual studio 2017\Projects\RentNiceCar\RentNiceCar\bin\Owin.dll
+c:\users\hesa\documents\visual studio 2017\Projects\RentNiceCar\RentNiceCar\bin\System.Web.Helpers.dll
+c:\users\hesa\documents\visual studio 2017\Projects\RentNiceCar\RentNiceCar\bin\System.Web.Mvc.dll
+c:\users\hesa\documents\visual studio 2017\Projects\RentNiceCar\RentNiceCar\bin\System.Web.Optimization.dll
+c:\users\hesa\documents\visual studio 2017\Projects\RentNiceCar\RentNiceCar\bin\System.Web.Razor.dll
+c:\users\hesa\documents\visual studio 2017\Projects\RentNiceCar\RentNiceCar\bin\System.Web.WebPages.Deployment.dll
+c:\users\hesa\documents\visual studio 2017\Projects\RentNiceCar\RentNiceCar\bin\System.Web.WebPages.dll
+c:\users\hesa\documents\visual studio 2017\Projects\RentNiceCar\RentNiceCar\bin\System.Web.WebPages.Razor.dll
+c:\users\hesa\documents\visual studio 2017\Projects\RentNiceCar\RentNiceCar\bin\WebGrease.dll
+c:\users\hesa\documents\visual studio 2017\Projects\RentNiceCar\RentNiceCar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\hesa\documents\visual studio 2017\Projects\RentNiceCar\RentNiceCar\bin\System.Web.Helpers.xml
+c:\users\hesa\documents\visual studio 2017\Projects\RentNiceCar\RentNiceCar\bin\System.Web.Mvc.xml
+c:\users\hesa\documents\visual studio 2017\Projects\RentNiceCar\RentNiceCar\bin\System.Web.Optimization.xml
+c:\users\hesa\documents\visual studio 2017\Projects\RentNiceCar\RentNiceCar\bin\System.Web.Razor.xml
+c:\users\hesa\documents\visual studio 2017\Projects\RentNiceCar\RentNiceCar\bin\System.Web.WebPages.xml
+c:\users\hesa\documents\visual studio 2017\Projects\RentNiceCar\RentNiceCar\bin\System.Web.WebPages.Deployment.xml
+c:\users\hesa\documents\visual studio 2017\Projects\RentNiceCar\RentNiceCar\bin\System.Web.WebPages.Razor.xml
+c:\users\hesa\documents\visual studio 2017\Projects\RentNiceCar\RentNiceCar\bin\Antlr3.Runtime.pdb
+c:\users\hesa\documents\visual studio 2017\Projects\RentNiceCar\RentNiceCar\bin\Newtonsoft.Json.xml
+c:\users\hesa\documents\visual studio 2017\Projects\RentNiceCar\RentNiceCar\bin\EntityFramework.xml
+c:\users\hesa\documents\visual studio 2017\Projects\RentNiceCar\RentNiceCar\bin\EntityFramework.SqlServer.xml
+c:\users\hesa\documents\visual studio 2017\Projects\RentNiceCar\RentNiceCar\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\hesa\documents\visual studio 2017\Projects\RentNiceCar\RentNiceCar\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\hesa\documents\visual studio 2017\Projects\RentNiceCar\RentNiceCar\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\hesa\documents\visual studio 2017\Projects\RentNiceCar\RentNiceCar\bin\Microsoft.Owin.xml
+c:\users\hesa\documents\visual studio 2017\Projects\RentNiceCar\RentNiceCar\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\hesa\documents\visual studio 2017\Projects\RentNiceCar\RentNiceCar\bin\Microsoft.Owin.Security.xml
+c:\users\hesa\documents\visual studio 2017\Projects\RentNiceCar\RentNiceCar\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\hesa\documents\visual studio 2017\Projects\RentNiceCar\RentNiceCar\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\hesa\documents\visual studio 2017\Projects\RentNiceCar\RentNiceCar\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\hesa\documents\visual studio 2017\Projects\RentNiceCar\RentNiceCar\bin\Microsoft.Owin.Security.Google.xml
+c:\users\hesa\documents\visual studio 2017\Projects\RentNiceCar\RentNiceCar\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\hesa\documents\visual studio 2017\Projects\RentNiceCar\RentNiceCar\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\hesa\documents\visual studio 2017\Projects\RentNiceCar\RentNiceCar\bin\Microsoft.ApplicationInsights.xml
+c:\users\hesa\documents\visual studio 2017\Projects\RentNiceCar\RentNiceCar\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\hesa\documents\visual studio 2017\Projects\RentNiceCar\RentNiceCar\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\hesa\documents\visual studio 2017\Projects\RentNiceCar\RentNiceCar\bin\Microsoft.AI.WindowsServer.xml
+c:\users\hesa\documents\visual studio 2017\Projects\RentNiceCar\RentNiceCar\bin\Microsoft.AI.Web.xml
+c:\users\hesa\documents\visual studio 2017\Projects\RentNiceCar\RentNiceCar\obj\Debug\RentNiceCar.csprojResolveAssemblyReference.cache
+c:\users\hesa\documents\visual studio 2017\Projects\RentNiceCar\RentNiceCar\obj\Debug\RentNiceCar.dll
+c:\users\hesa\documents\visual studio 2017\Projects\RentNiceCar\RentNiceCar\obj\Debug\RentNiceCar.pdb
+c:\users\hesa\documents\visual studio 2017\Projects\RentNiceCar\RentNiceCar\obj\Debug\RentNiceCar.Migrations.InitialCreate.resources
+c:\users\hesa\documents\visual studio 2017\Projects\RentNiceCar\RentNiceCar\obj\Debug\RentNiceCar.csproj.GenerateResource.Cache
+c:\users\hesa\documents\visual studio 2017\Projects\RentNiceCar\RentNiceCar\obj\Debug\RentNiceCar.Migrations.first.resources
+c:\users\hesa\documents\visual studio 2017\Projects\RentNiceCar\RentNiceCar\obj\Debug\RentNiceCar.Migrations.Invoice.resources
+c:\users\hesa\documents\visual studio 2017\Projects\RentNiceCar\RentNiceCar\obj\Debug\RentNiceCar.Migrations.InvoiceFix.resources
+C:\Users\Hesa\documents\visual studio 2017\Projects\RentNiceCar\RentNiceCar\obj\Debug\RentNiceCar.Migrations.FixUserId.resources
+C:\Users\Hesa\documents\visual studio 2017\Projects\RentNiceCar\RentNiceCar\obj\Debug\RentNiceCar.Migrations.Float.resources
+C:\Users\Hesa\documents\visual studio 2017\Projects\RentNiceCar\RentNiceCar\obj\Debug\RentNiceCar.Migrations.Fix.resources
+C:\Users\User\Desktop\RentNiceCar\RentNiceCar\bin\ApplicationInsights.config
+C:\Users\User\Desktop\RentNiceCar\RentNiceCar\bin\roslyn\csc.exe
+C:\Users\User\Desktop\RentNiceCar\RentNiceCar\bin\roslyn\csc.exe.config
+C:\Users\User\Desktop\RentNiceCar\RentNiceCar\bin\roslyn\csc.rsp
+C:\Users\User\Desktop\RentNiceCar\RentNiceCar\bin\roslyn\csi.exe
+C:\Users\User\Desktop\RentNiceCar\RentNiceCar\bin\roslyn\csi.rsp
+C:\Users\User\Desktop\RentNiceCar\RentNiceCar\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\Desktop\RentNiceCar\RentNiceCar\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Desktop\RentNiceCar\RentNiceCar\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\User\Desktop\RentNiceCar\RentNiceCar\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\Desktop\RentNiceCar\RentNiceCar\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\User\Desktop\RentNiceCar\RentNiceCar\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\Desktop\RentNiceCar\RentNiceCar\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\Desktop\RentNiceCar\RentNiceCar\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\User\Desktop\RentNiceCar\RentNiceCar\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\User\Desktop\RentNiceCar\RentNiceCar\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\Desktop\RentNiceCar\RentNiceCar\bin\roslyn\System.AppContext.dll
+C:\Users\User\Desktop\RentNiceCar\RentNiceCar\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\Desktop\RentNiceCar\RentNiceCar\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\User\Desktop\RentNiceCar\RentNiceCar\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\User\Desktop\RentNiceCar\RentNiceCar\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\User\Desktop\RentNiceCar\RentNiceCar\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\Desktop\RentNiceCar\RentNiceCar\bin\roslyn\vbc.exe
+C:\Users\User\Desktop\RentNiceCar\RentNiceCar\bin\roslyn\vbc.exe.config
+C:\Users\User\Desktop\RentNiceCar\RentNiceCar\bin\roslyn\vbc.rsp
+C:\Users\User\Desktop\RentNiceCar\RentNiceCar\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\Desktop\RentNiceCar\RentNiceCar\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\Desktop\RentNiceCar\RentNiceCar\bin\RentNiceCar.dll.config
+C:\Users\User\Desktop\RentNiceCar\RentNiceCar\bin\RentNiceCar.dll
+C:\Users\User\Desktop\RentNiceCar\RentNiceCar\bin\RentNiceCar.pdb
+C:\Users\User\Desktop\RentNiceCar\RentNiceCar\bin\Antlr3.Runtime.dll
+C:\Users\User\Desktop\RentNiceCar\RentNiceCar\bin\EntityFramework.dll
+C:\Users\User\Desktop\RentNiceCar\RentNiceCar\bin\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\RentNiceCar\RentNiceCar\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\User\Desktop\RentNiceCar\RentNiceCar\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\User\Desktop\RentNiceCar\RentNiceCar\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\User\Desktop\RentNiceCar\RentNiceCar\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\User\Desktop\RentNiceCar\RentNiceCar\bin\Microsoft.AI.Web.dll
+C:\Users\User\Desktop\RentNiceCar\RentNiceCar\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\User\Desktop\RentNiceCar\RentNiceCar\bin\Microsoft.ApplicationInsights.dll
+C:\Users\User\Desktop\RentNiceCar\RentNiceCar\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\User\Desktop\RentNiceCar\RentNiceCar\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\User\Desktop\RentNiceCar\RentNiceCar\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\User\Desktop\RentNiceCar\RentNiceCar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Desktop\RentNiceCar\RentNiceCar\bin\Microsoft.Owin.dll
+C:\Users\User\Desktop\RentNiceCar\RentNiceCar\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\User\Desktop\RentNiceCar\RentNiceCar\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\User\Desktop\RentNiceCar\RentNiceCar\bin\Microsoft.Owin.Security.dll
+C:\Users\User\Desktop\RentNiceCar\RentNiceCar\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\User\Desktop\RentNiceCar\RentNiceCar\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\User\Desktop\RentNiceCar\RentNiceCar\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\User\Desktop\RentNiceCar\RentNiceCar\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\User\Desktop\RentNiceCar\RentNiceCar\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\User\Desktop\RentNiceCar\RentNiceCar\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Desktop\RentNiceCar\RentNiceCar\bin\Newtonsoft.Json.dll
+C:\Users\User\Desktop\RentNiceCar\RentNiceCar\bin\Owin.dll
+C:\Users\User\Desktop\RentNiceCar\RentNiceCar\bin\System.Web.Helpers.dll
+C:\Users\User\Desktop\RentNiceCar\RentNiceCar\bin\System.Web.Mvc.dll
+C:\Users\User\Desktop\RentNiceCar\RentNiceCar\bin\System.Web.Optimization.dll
+C:\Users\User\Desktop\RentNiceCar\RentNiceCar\bin\System.Web.Razor.dll
+C:\Users\User\Desktop\RentNiceCar\RentNiceCar\bin\System.Web.WebPages.Deployment.dll
+C:\Users\User\Desktop\RentNiceCar\RentNiceCar\bin\System.Web.WebPages.dll
+C:\Users\User\Desktop\RentNiceCar\RentNiceCar\bin\System.Web.WebPages.Razor.dll
+C:\Users\User\Desktop\RentNiceCar\RentNiceCar\bin\WebGrease.dll
+C:\Users\User\Desktop\RentNiceCar\RentNiceCar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Desktop\RentNiceCar\RentNiceCar\bin\System.Web.Helpers.xml
+C:\Users\User\Desktop\RentNiceCar\RentNiceCar\bin\System.Web.Mvc.xml
+C:\Users\User\Desktop\RentNiceCar\RentNiceCar\bin\System.Web.Optimization.xml
+C:\Users\User\Desktop\RentNiceCar\RentNiceCar\bin\System.Web.Razor.xml
+C:\Users\User\Desktop\RentNiceCar\RentNiceCar\bin\System.Web.WebPages.xml
+C:\Users\User\Desktop\RentNiceCar\RentNiceCar\bin\System.Web.WebPages.Deployment.xml
+C:\Users\User\Desktop\RentNiceCar\RentNiceCar\bin\System.Web.WebPages.Razor.xml
+C:\Users\User\Desktop\RentNiceCar\RentNiceCar\bin\Antlr3.Runtime.pdb
+C:\Users\User\Desktop\RentNiceCar\RentNiceCar\bin\Newtonsoft.Json.xml
+C:\Users\User\Desktop\RentNiceCar\RentNiceCar\bin\EntityFramework.xml
+C:\Users\User\Desktop\RentNiceCar\RentNiceCar\bin\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\RentNiceCar\RentNiceCar\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\User\Desktop\RentNiceCar\RentNiceCar\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\User\Desktop\RentNiceCar\RentNiceCar\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\User\Desktop\RentNiceCar\RentNiceCar\bin\Microsoft.Owin.xml
+C:\Users\User\Desktop\RentNiceCar\RentNiceCar\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\User\Desktop\RentNiceCar\RentNiceCar\bin\Microsoft.Owin.Security.xml
+C:\Users\User\Desktop\RentNiceCar\RentNiceCar\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\User\Desktop\RentNiceCar\RentNiceCar\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\User\Desktop\RentNiceCar\RentNiceCar\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\User\Desktop\RentNiceCar\RentNiceCar\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\User\Desktop\RentNiceCar\RentNiceCar\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\User\Desktop\RentNiceCar\RentNiceCar\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\User\Desktop\RentNiceCar\RentNiceCar\bin\Microsoft.ApplicationInsights.xml
+C:\Users\User\Desktop\RentNiceCar\RentNiceCar\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\User\Desktop\RentNiceCar\RentNiceCar\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\User\Desktop\RentNiceCar\RentNiceCar\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\User\Desktop\RentNiceCar\RentNiceCar\bin\Microsoft.AI.Web.xml
+C:\Users\User\Desktop\RentNiceCar\RentNiceCar\obj\Debug\RentNiceCar.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\RentNiceCar\RentNiceCar\obj\Debug\RentNiceCar.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\RentNiceCar\RentNiceCar\obj\Debug\RentNiceCar.dll
+C:\Users\User\Desktop\RentNiceCar\RentNiceCar\obj\Debug\RentNiceCar.pdb
+C:\Users\User\Desktop\RentNiceCar\RentNiceCar\obj\Debug\RentNiceCar.Migrations.auto.resources
+C:\Users\User\Desktop\RentNiceCar\RentNiceCar\obj\Debug\RentNiceCar.csproj.GenerateResource.Cache
+C:\Users\USER\Documents\Visual Studio 2015\Projects\RentNiceCar\RentNiceCar\bin\ApplicationInsights.config
+C:\Users\USER\Documents\Visual Studio 2015\Projects\RentNiceCar\RentNiceCar\bin\roslyn\csc.exe
+C:\Users\USER\Documents\Visual Studio 2015\Projects\RentNiceCar\RentNiceCar\bin\roslyn\csc.exe.config
+C:\Users\USER\Documents\Visual Studio 2015\Projects\RentNiceCar\RentNiceCar\bin\roslyn\csc.rsp
+C:\Users\USER\Documents\Visual Studio 2015\Projects\RentNiceCar\RentNiceCar\bin\roslyn\csi.exe
+C:\Users\USER\Documents\Visual Studio 2015\Projects\RentNiceCar\RentNiceCar\bin\roslyn\csi.rsp
+C:\Users\USER\Documents\Visual Studio 2015\Projects\RentNiceCar\RentNiceCar\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\RentNiceCar\RentNiceCar\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\RentNiceCar\RentNiceCar\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\RentNiceCar\RentNiceCar\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\RentNiceCar\RentNiceCar\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\RentNiceCar\RentNiceCar\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\RentNiceCar\RentNiceCar\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\USER\Documents\Visual Studio 2015\Projects\RentNiceCar\RentNiceCar\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\RentNiceCar\RentNiceCar\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\RentNiceCar\RentNiceCar\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\USER\Documents\Visual Studio 2015\Projects\RentNiceCar\RentNiceCar\bin\roslyn\System.AppContext.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\RentNiceCar\RentNiceCar\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\RentNiceCar\RentNiceCar\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\RentNiceCar\RentNiceCar\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\RentNiceCar\RentNiceCar\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\RentNiceCar\RentNiceCar\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\RentNiceCar\RentNiceCar\bin\roslyn\vbc.exe
+C:\Users\USER\Documents\Visual Studio 2015\Projects\RentNiceCar\RentNiceCar\bin\roslyn\vbc.exe.config
+C:\Users\USER\Documents\Visual Studio 2015\Projects\RentNiceCar\RentNiceCar\bin\roslyn\vbc.rsp
+C:\Users\USER\Documents\Visual Studio 2015\Projects\RentNiceCar\RentNiceCar\bin\roslyn\VBCSCompiler.exe
+C:\Users\USER\Documents\Visual Studio 2015\Projects\RentNiceCar\RentNiceCar\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\USER\Documents\Visual Studio 2015\Projects\RentNiceCar\RentNiceCar\bin\RentNiceCar.dll.config
+C:\Users\USER\Documents\Visual Studio 2015\Projects\RentNiceCar\RentNiceCar\bin\RentNiceCar.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\RentNiceCar\RentNiceCar\bin\RentNiceCar.pdb
+C:\Users\USER\Documents\Visual Studio 2015\Projects\RentNiceCar\RentNiceCar\bin\Antlr3.Runtime.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\RentNiceCar\RentNiceCar\bin\EntityFramework.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\RentNiceCar\RentNiceCar\bin\EntityFramework.SqlServer.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\RentNiceCar\RentNiceCar\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\RentNiceCar\RentNiceCar\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\RentNiceCar\RentNiceCar\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\RentNiceCar\RentNiceCar\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\RentNiceCar\RentNiceCar\bin\Microsoft.AI.Web.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\RentNiceCar\RentNiceCar\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\RentNiceCar\RentNiceCar\bin\Microsoft.ApplicationInsights.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\RentNiceCar\RentNiceCar\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\RentNiceCar\RentNiceCar\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\RentNiceCar\RentNiceCar\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\RentNiceCar\RentNiceCar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\RentNiceCar\RentNiceCar\bin\Microsoft.Owin.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\RentNiceCar\RentNiceCar\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\RentNiceCar\RentNiceCar\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\RentNiceCar\RentNiceCar\bin\Microsoft.Owin.Security.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\RentNiceCar\RentNiceCar\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\RentNiceCar\RentNiceCar\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\RentNiceCar\RentNiceCar\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\RentNiceCar\RentNiceCar\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\RentNiceCar\RentNiceCar\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\RentNiceCar\RentNiceCar\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\RentNiceCar\RentNiceCar\bin\Newtonsoft.Json.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\RentNiceCar\RentNiceCar\bin\Owin.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\RentNiceCar\RentNiceCar\bin\System.Web.Helpers.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\RentNiceCar\RentNiceCar\bin\System.Web.Mvc.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\RentNiceCar\RentNiceCar\bin\System.Web.Optimization.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\RentNiceCar\RentNiceCar\bin\System.Web.Razor.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\RentNiceCar\RentNiceCar\bin\System.Web.WebPages.Deployment.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\RentNiceCar\RentNiceCar\bin\System.Web.WebPages.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\RentNiceCar\RentNiceCar\bin\System.Web.WebPages.Razor.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\RentNiceCar\RentNiceCar\bin\WebGrease.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\RentNiceCar\RentNiceCar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\USER\Documents\Visual Studio 2015\Projects\RentNiceCar\RentNiceCar\bin\System.Web.Helpers.xml
+C:\Users\USER\Documents\Visual Studio 2015\Projects\RentNiceCar\RentNiceCar\bin\System.Web.Mvc.xml
+C:\Users\USER\Documents\Visual Studio 2015\Projects\RentNiceCar\RentNiceCar\bin\System.Web.Optimization.xml
+C:\Users\USER\Documents\Visual Studio 2015\Projects\RentNiceCar\RentNiceCar\bin\System.Web.Razor.xml
+C:\Users\USER\Documents\Visual Studio 2015\Projects\RentNiceCar\RentNiceCar\bin\System.Web.WebPages.xml
+C:\Users\USER\Documents\Visual Studio 2015\Projects\RentNiceCar\RentNiceCar\bin\System.Web.WebPages.Deployment.xml
+C:\Users\USER\Documents\Visual Studio 2015\Projects\RentNiceCar\RentNiceCar\bin\System.Web.WebPages.Razor.xml
+C:\Users\USER\Documents\Visual Studio 2015\Projects\RentNiceCar\RentNiceCar\bin\Antlr3.Runtime.pdb
+C:\Users\USER\Documents\Visual Studio 2015\Projects\RentNiceCar\RentNiceCar\bin\Newtonsoft.Json.xml
+C:\Users\USER\Documents\Visual Studio 2015\Projects\RentNiceCar\RentNiceCar\bin\EntityFramework.xml
+C:\Users\USER\Documents\Visual Studio 2015\Projects\RentNiceCar\RentNiceCar\bin\EntityFramework.SqlServer.xml
+C:\Users\USER\Documents\Visual Studio 2015\Projects\RentNiceCar\RentNiceCar\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\USER\Documents\Visual Studio 2015\Projects\RentNiceCar\RentNiceCar\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\USER\Documents\Visual Studio 2015\Projects\RentNiceCar\RentNiceCar\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\USER\Documents\Visual Studio 2015\Projects\RentNiceCar\RentNiceCar\bin\Microsoft.Owin.xml
+C:\Users\USER\Documents\Visual Studio 2015\Projects\RentNiceCar\RentNiceCar\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\USER\Documents\Visual Studio 2015\Projects\RentNiceCar\RentNiceCar\bin\Microsoft.Owin.Security.xml
+C:\Users\USER\Documents\Visual Studio 2015\Projects\RentNiceCar\RentNiceCar\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\USER\Documents\Visual Studio 2015\Projects\RentNiceCar\RentNiceCar\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\USER\Documents\Visual Studio 2015\Projects\RentNiceCar\RentNiceCar\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\USER\Documents\Visual Studio 2015\Projects\RentNiceCar\RentNiceCar\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\USER\Documents\Visual Studio 2015\Projects\RentNiceCar\RentNiceCar\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\USER\Documents\Visual Studio 2015\Projects\RentNiceCar\RentNiceCar\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\USER\Documents\Visual Studio 2015\Projects\RentNiceCar\RentNiceCar\bin\Microsoft.ApplicationInsights.xml
+C:\Users\USER\Documents\Visual Studio 2015\Projects\RentNiceCar\RentNiceCar\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\USER\Documents\Visual Studio 2015\Projects\RentNiceCar\RentNiceCar\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\USER\Documents\Visual Studio 2015\Projects\RentNiceCar\RentNiceCar\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\USER\Documents\Visual Studio 2015\Projects\RentNiceCar\RentNiceCar\bin\Microsoft.AI.Web.xml
+C:\Users\USER\Documents\Visual Studio 2015\Projects\RentNiceCar\RentNiceCar\obj\Debug\RentNiceCar.csprojResolveAssemblyReference.cache
+C:\Users\USER\Documents\Visual Studio 2015\Projects\RentNiceCar\RentNiceCar\obj\Debug\RentNiceCar.Migrations.auto.resources
+C:\Users\USER\Documents\Visual Studio 2015\Projects\RentNiceCar\RentNiceCar\obj\Debug\RentNiceCar.csproj.GenerateResource.Cache
+C:\Users\USER\Documents\Visual Studio 2015\Projects\RentNiceCar\RentNiceCar\obj\Debug\RentNiceCar.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\RentNiceCar\RentNiceCar\obj\Debug\RentNiceCar.pdb
+C:\Users\USER\Documents\Visual Studio 2015\Projects\RentNiceCar\RentNiceCar\obj\Debug\RentNiceCar.Migrations.register.resources
+C:\Users\User\Documents\Visual Studio 2017\Projects\RentNiceCar\RentNiceCar\bin\ApplicationInsights.config
+C:\Users\User\Documents\Visual Studio 2017\Projects\RentNiceCar\RentNiceCar\bin\roslyn\csc.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\RentNiceCar\RentNiceCar\bin\roslyn\csc.exe.config
+C:\Users\User\Documents\Visual Studio 2017\Projects\RentNiceCar\RentNiceCar\bin\roslyn\csc.rsp
+C:\Users\User\Documents\Visual Studio 2017\Projects\RentNiceCar\RentNiceCar\bin\roslyn\csi.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\RentNiceCar\RentNiceCar\bin\roslyn\csi.rsp
+C:\Users\User\Documents\Visual Studio 2017\Projects\RentNiceCar\RentNiceCar\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\RentNiceCar\RentNiceCar\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\RentNiceCar\RentNiceCar\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\RentNiceCar\RentNiceCar\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\RentNiceCar\RentNiceCar\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\RentNiceCar\RentNiceCar\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\RentNiceCar\RentNiceCar\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\Documents\Visual Studio 2017\Projects\RentNiceCar\RentNiceCar\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\RentNiceCar\RentNiceCar\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\RentNiceCar\RentNiceCar\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\Documents\Visual Studio 2017\Projects\RentNiceCar\RentNiceCar\bin\roslyn\System.AppContext.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\RentNiceCar\RentNiceCar\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\RentNiceCar\RentNiceCar\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\RentNiceCar\RentNiceCar\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\RentNiceCar\RentNiceCar\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\RentNiceCar\RentNiceCar\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\RentNiceCar\RentNiceCar\bin\roslyn\vbc.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\RentNiceCar\RentNiceCar\bin\roslyn\vbc.exe.config
+C:\Users\User\Documents\Visual Studio 2017\Projects\RentNiceCar\RentNiceCar\bin\roslyn\vbc.rsp
+C:\Users\User\Documents\Visual Studio 2017\Projects\RentNiceCar\RentNiceCar\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\RentNiceCar\RentNiceCar\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\Documents\Visual Studio 2017\Projects\RentNiceCar\RentNiceCar\bin\RentNiceCar.dll.config
+C:\Users\User\Documents\Visual Studio 2017\Projects\RentNiceCar\RentNiceCar\bin\RentNiceCar.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\RentNiceCar\RentNiceCar\bin\RentNiceCar.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\RentNiceCar\RentNiceCar\bin\Antlr3.Runtime.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\RentNiceCar\RentNiceCar\bin\EntityFramework.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\RentNiceCar\RentNiceCar\bin\EntityFramework.SqlServer.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\RentNiceCar\RentNiceCar\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\RentNiceCar\RentNiceCar\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\RentNiceCar\RentNiceCar\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\RentNiceCar\RentNiceCar\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\RentNiceCar\RentNiceCar\bin\Microsoft.AI.Web.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\RentNiceCar\RentNiceCar\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\RentNiceCar\RentNiceCar\bin\Microsoft.ApplicationInsights.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\RentNiceCar\RentNiceCar\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\RentNiceCar\RentNiceCar\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\RentNiceCar\RentNiceCar\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\RentNiceCar\RentNiceCar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\RentNiceCar\RentNiceCar\bin\Microsoft.Owin.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\RentNiceCar\RentNiceCar\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\RentNiceCar\RentNiceCar\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\RentNiceCar\RentNiceCar\bin\Microsoft.Owin.Security.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\RentNiceCar\RentNiceCar\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\RentNiceCar\RentNiceCar\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\RentNiceCar\RentNiceCar\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\RentNiceCar\RentNiceCar\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\RentNiceCar\RentNiceCar\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\RentNiceCar\RentNiceCar\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\RentNiceCar\RentNiceCar\bin\Newtonsoft.Json.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\RentNiceCar\RentNiceCar\bin\Owin.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\RentNiceCar\RentNiceCar\bin\System.Web.Helpers.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\RentNiceCar\RentNiceCar\bin\System.Web.Mvc.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\RentNiceCar\RentNiceCar\bin\System.Web.Optimization.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\RentNiceCar\RentNiceCar\bin\System.Web.Razor.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\RentNiceCar\RentNiceCar\bin\System.Web.WebPages.Deployment.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\RentNiceCar\RentNiceCar\bin\System.Web.WebPages.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\RentNiceCar\RentNiceCar\bin\System.Web.WebPages.Razor.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\RentNiceCar\RentNiceCar\bin\WebGrease.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\RentNiceCar\RentNiceCar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Documents\Visual Studio 2017\Projects\RentNiceCar\RentNiceCar\bin\System.Web.Helpers.xml
+C:\Users\User\Documents\Visual Studio 2017\Projects\RentNiceCar\RentNiceCar\bin\System.Web.Mvc.xml
+C:\Users\User\Documents\Visual Studio 2017\Projects\RentNiceCar\RentNiceCar\bin\System.Web.Optimization.xml
+C:\Users\User\Documents\Visual Studio 2017\Projects\RentNiceCar\RentNiceCar\bin\System.Web.Razor.xml
+C:\Users\User\Documents\Visual Studio 2017\Projects\RentNiceCar\RentNiceCar\bin\System.Web.WebPages.xml
+C:\Users\User\Documents\Visual Studio 2017\Projects\RentNiceCar\RentNiceCar\bin\System.Web.WebPages.Deployment.xml
+C:\Users\User\Documents\Visual Studio 2017\Projects\RentNiceCar\RentNiceCar\bin\System.Web.WebPages.Razor.xml
+C:\Users\User\Documents\Visual Studio 2017\Projects\RentNiceCar\RentNiceCar\bin\Antlr3.Runtime.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\RentNiceCar\RentNiceCar\bin\Newtonsoft.Json.xml
+C:\Users\User\Documents\Visual Studio 2017\Projects\RentNiceCar\RentNiceCar\bin\EntityFramework.xml
+C:\Users\User\Documents\Visual Studio 2017\Projects\RentNiceCar\RentNiceCar\bin\EntityFramework.SqlServer.xml
+C:\Users\User\Documents\Visual Studio 2017\Projects\RentNiceCar\RentNiceCar\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\User\Documents\Visual Studio 2017\Projects\RentNiceCar\RentNiceCar\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\User\Documents\Visual Studio 2017\Projects\RentNiceCar\RentNiceCar\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\User\Documents\Visual Studio 2017\Projects\RentNiceCar\RentNiceCar\bin\Microsoft.Owin.xml
+C:\Users\User\Documents\Visual Studio 2017\Projects\RentNiceCar\RentNiceCar\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\User\Documents\Visual Studio 2017\Projects\RentNiceCar\RentNiceCar\bin\Microsoft.Owin.Security.xml
+C:\Users\User\Documents\Visual Studio 2017\Projects\RentNiceCar\RentNiceCar\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\User\Documents\Visual Studio 2017\Projects\RentNiceCar\RentNiceCar\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\User\Documents\Visual Studio 2017\Projects\RentNiceCar\RentNiceCar\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\User\Documents\Visual Studio 2017\Projects\RentNiceCar\RentNiceCar\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\User\Documents\Visual Studio 2017\Projects\RentNiceCar\RentNiceCar\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\User\Documents\Visual Studio 2017\Projects\RentNiceCar\RentNiceCar\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\User\Documents\Visual Studio 2017\Projects\RentNiceCar\RentNiceCar\bin\Microsoft.ApplicationInsights.xml
+C:\Users\User\Documents\Visual Studio 2017\Projects\RentNiceCar\RentNiceCar\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\User\Documents\Visual Studio 2017\Projects\RentNiceCar\RentNiceCar\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\User\Documents\Visual Studio 2017\Projects\RentNiceCar\RentNiceCar\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\User\Documents\Visual Studio 2017\Projects\RentNiceCar\RentNiceCar\bin\Microsoft.AI.Web.xml
+C:\Users\User\Documents\Visual Studio 2017\Projects\RentNiceCar\RentNiceCar\obj\Debug\RentNiceCar.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\RentNiceCar\RentNiceCar\obj\Debug\RentNiceCar.Migrations.auto.resources
+C:\Users\User\Documents\Visual Studio 2017\Projects\RentNiceCar\RentNiceCar\obj\Debug\RentNiceCar.Migrations.register.resources
+C:\Users\User\Documents\Visual Studio 2017\Projects\RentNiceCar\RentNiceCar\obj\Debug\RentNiceCar.csproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\RentNiceCar\RentNiceCar\obj\Debug\RentNiceCar.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\RentNiceCar\RentNiceCar\obj\Debug\RentNiceCar.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\RentNiceCar\RentNiceCar\obj\Debug\RentNiceCar.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\RentNiceCar\RentNiceCar\obj\Debug\RentNiceCar.Migrations.InvoiceDatum.resources

@@ -1,0 +1,75 @@
+﻿@using RentNiceCar.Models
+@model RentNiceCar.Models.Invoice
+@{
+    ViewBag.Title = "Edit";
+    ApplicationUser user = RentNiceCar.Controllers.InvoiceController.GetUserById(Model.UserId);
+}
+<h2>Edit</h2>
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+    
+    <div class="form-horizontal">
+        <h4>Factuur</h4>
+        <hr />
+
+        <div class="form-group">
+            Gebruiker: @user.Email
+            </div>
+            @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+            @Html.HiddenFor(model => model.InvoiceId)
+            <div class="form-group">
+                @Html.LabelFor(model => model.Kenteken, htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.EditorFor(model => model.Kenteken, new { htmlAttributes = new { @class = "form-control" } })
+                    @Html.ValidationMessageFor(model => model.Kenteken, "", new { @class = "text-danger" })
+                </div>
+            </div>
+            <div class="form-group">
+                @Html.LabelFor(model => model.UserId, htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.EditorFor(model => model.UserId, new { htmlAttributes = new { @class = "form-control" } })
+                    @Html.ValidationMessageFor(model => model.UserId, "", new { @class = "text-danger" })
+                </div>
+            </div>
+            <div class="form-group">
+                @Html.LabelFor(model => model.VanafDatum, htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.EditorFor(model => model.VanafDatum, new { htmlAttributes = new { @class = "datepicker1 form-control" } })
+                    @Html.ValidationMessageFor(model => model.VanafDatum, "", new { @class = "text-danger" })
+                </div>
+            </div>
+            <div class="form-group">
+                @Html.LabelFor(model => model.TotDatum, htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.EditorFor(model => model.TotDatum, new { htmlAttributes = new { @class = "datepicker2 form-control" } })
+                    @Html.ValidationMessageFor(model => model.TotDatum, "", new { @class = "text-danger" })
+                </div>
+            </div>
+            <div class="form-group">
+                @Html.LabelFor(model => model.InleverDatum, htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.EditorFor(model => model.InleverDatum, new { htmlAttributes = new { @class = "datepicker3 form-control" } })
+                    @Html.ValidationMessageFor(model => model.InleverDatum, "", new { @class = "text-danger" })
+                </div>
+            </div>
+            <script>
+                $(document).ready(function () {
+                    $('.datepicker1').datepicker();
+                    $('.datepicker2').datepicker();
+                    $('.datepicker3').datepicker();
+                });
+            </script>
+            <div class="form-group">
+                <div class="col-md-offset-2 col-md-10">
+                    <input type="submit" value="Save" class="btn btn-default" />
+                </div>
+            </div>
+        </div>
+}
+<div>
+    @Html.ActionLink("Back to List", "Manage")
+</div>
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

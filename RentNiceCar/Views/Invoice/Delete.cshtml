@@ -1,0 +1,64 @@
+﻿@model RentNiceCar.Models.Invoice
+
+@{
+    ViewBag.Title = "Delete";
+}
+
+<h2>Delete</h2>
+
+<h3>Are you sure you want to delete this?</h3>
+<div>
+    <h4>Invoice</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Kenteken)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Kenteken)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.UserId)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.UserId)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.VanafDatum)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.VanafDatum)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.TotDatum)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.TotDatum)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.InleverDatum)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.InleverDatum)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Delete" class="btn btn-default" /> |
+            @Html.ActionLink("Back to List", "Manage")
+        </div>
+    }
+</div>

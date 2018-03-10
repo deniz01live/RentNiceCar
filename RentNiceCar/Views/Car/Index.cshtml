@@ -1,0 +1,107 @@
+﻿@model RentNiceCar.Models.ViewCarsModel
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+@if (User.IsInRole("Eigenaar"))
+{
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+}
+
+<div>
+    @using (Html.BeginForm("Index", "Car", null, FormMethod.Post, new { @class = "form-horizontal", role = "form" }))
+    {
+        <input type="radio" name="NuBeschikbaar" id="r1" value="true" @if(Model.NuBeschikbaar){
+            <text>checked</text>
+        }/><label for="r1"> Nu Beschikbaar</label>
+        <input type="radio" name="NuBeschikbaar" id="r2" value="false" @if(!Model.NuBeschikbaar){
+            <text>checked</text>
+        }/>
+        <label for="r2">
+            <div>
+                Vanaf:
+                @Html.TextBoxFor(m => m.VanafDatum, new { @placeholder = "mm/dd/yyyy", @class = "datepicker1" })
+                Tot:
+                @Html.TextBoxFor(m => m.TotDatum, new { @placeholder = "mm/dd/yyyy", @class = "datepicker2" })
+                
+            </div>
+        </label>
+        <script>
+        $(document).ready(function () {
+            $('.datepicker1').datepicker();
+            $('.datepicker2').datepicker();
+
+            $('.datepicker1').click(function () {
+                $("#r2").click();
+            });
+
+            $('.datepicker2').click(function () {
+                $("#r2").click();
+            });
+        });
+        </script>
+        <button type="submit">Filter</button>
+        if (!string.IsNullOrEmpty(Model.Error))
+        {
+            <p><b style="color:red;">@Model.Error</b></p>
+        }
+    }
+</div>
+<br />
+
+<table class="table">
+    <tr>
+        <th>Kenteken</th>
+        <th>Merk</th>
+        <th>Type</th>
+        <th>Soort</th>
+        <th>Omschrijving</th>
+        <th>GPS</th>
+        <th>Prijs</th>
+        <th>Borg</th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model.Cars) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Kenteken)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Merk)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Type)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Soort)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Omschrijving)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.GPS)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Prijs)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Borg)
+        </td>
+        <td>
+            @Html.ActionLink("Reserveren", "Order", new { id = item.Kenteken }) |
+            @Html.ActionLink("Details", "Details", new { id = item.Kenteken }) |
+            @if (User.IsInRole("Eigenaar")) {
+            @Html.ActionLink("Edit", "Edit", new { id=item.Kenteken })<text> | </text>
+            @Html.ActionLink("Delete", "Delete", new { id=item.Kenteken })
+            }
+        </td>
+    </tr>
+}
+
+</table>

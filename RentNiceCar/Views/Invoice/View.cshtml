@@ -1,0 +1,76 @@
+﻿@using RentNiceCar.Models
+@model RentNiceCar.Models.Invoice
+@{
+    ViewBag.Title = "Uw Factuur";
+    Car car = RentNiceCar.Controllers.InvoiceController.GetCarById(Model.Kenteken);
+    ApplicationUser user = RentNiceCar.Controllers.InvoiceController.GetUserById(Model.UserId);
+    var initialPrijs = (Model.TotDatum - Model.VanafDatum).Days * car.Prijs;
+    if (Model.InleverDatum.HasValue)
+    {
+        initialPrijs += (Model.VanafDatum - Model.InleverDatum.Value).Days * car.Prijs;
+    }
+    if (initialPrijs <= car.Prijs)
+    {
+        initialPrijs = car.Prijs;
+    }
+    var BTW = (initialPrijs / 100) * 21;
+    var Totaal = initialPrijs + BTW;
+}
+<h2>Uw Factuur</h2>
+
+    <div>
+        <hr />
+        <a href="#" onclick="window.print()" style="position:relative; float:right;">Print</a>
+        Factuur:<br />
+        Rent-a-car<br />
+        Autopad12<br />
+        13355YY Almere<br />
+        Telefoon : (036) 123 45 67<br />
+        <br />
+        <br />
+        Datum: @Model.Datum.ToShortDateString()<br />
+        InvoiceID: #@Model.InvoiceId<br />
+        <br />
+        UserID: @Model.UserId<br />
+        Email: @user.Email<br />
+        Adres: @user.Adres<br />
+        Woonplaats: @user.Woonplaats<br />
+        Postcode: @user.Postcode<br />
+        <br /><br />
+        <table class="table table-bordered">
+            <thead>
+                <tr>
+                    <th>Kenteken</th>
+                    <th>Merk</th>
+                    <th>Type</th>
+                    <th>Soort</th>
+                    <th>Van Datum</th>
+                    <th>Tot Datum</th>
+                    <th>Prijs per dag</th>
+                    <th>BTW</th>
+                    <th>Borg</th>
+                    <th>Totaal</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>@Model.Kenteken</td>
+                    <td>@car.Merk</td>
+                    <td>@car.Type</td>
+                    <td>@car.Soort</td>
+                    <td>@Model.VanafDatum.ToShortDateString()</td>
+                    <td>@Model.TotDatum.ToShortDateString()</td>
+                    <td>@initialPrijs &euro; EUR</td>
+                    <td>@BTW &euro; EUR</td>
+                    <td>@car.Borg &euro; EUR</td>
+                    <td>@Totaal &euro; EUR</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+    <p>
+        @if(User.IsInRole("Eigenaar") || User.IsInRole("Medewerker")){
+            Html.ActionLink("Edit", "Edit", new { id = Model.InvoiceId });
+        }
+        @Html.ActionLink("Back to List", "Index")
+    </p>

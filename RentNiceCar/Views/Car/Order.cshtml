@@ -1,0 +1,60 @@
+﻿@using RentNiceCar.Models
+@model OrderCarViewModel
+@{
+    ViewBag.Title = "Order";
+    ViewBag.ReturnUrl = "/";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<h2>Order</h2>
+<div>
+    <h4>Order Car - @Html.DisplayFor(model => model.Kenteken)</h4>
+    <hr />
+    <div class="container">
+
+        @if(!string.IsNullOrEmpty(Model.Error))
+        {
+            <p><b style="color:red;">@Model.Error</b></p>
+        }
+
+        <div class="row">
+            <div class="col">
+                <dl class="dl-horizontal">
+                    @using (Html.BeginForm("Order", "Car", new { ReturnUrl = ViewBag.ReturnUrl }, FormMethod.Post, new { @class = "form-horizontal", role = "form" }))
+                    {
+                        @Html.HiddenFor(x => x.Kenteken, @Model.Kenteken);
+                        <div class="form-group">
+                            @Html.LabelFor(m => m.VanafDatum, new { @class = "col-md-2 control-label" })
+                            <div class="col-md-10">
+                                @Html.TextBoxFor(m => m.VanafDatum, new { @placeholder= "mm/dd/yyyy", @class = "datepicker1 form-control" })
+                                @Html.ValidationMessageFor(m => m.VanafDatum, "", new { @class = "text-danger" })
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            @Html.LabelFor(m => m.TotDatum, new { @class = "col-md-2 control-label" })
+                            <div class="col-md-10">
+                                @Html.TextBoxFor(m => m.TotDatum, new { @placeholder = "mm/dd/yyyy", @class = "datepicker2 form-control" })
+                                @Html.ValidationMessageFor(m => m.TotDatum, "", new { @class = "text-danger" })
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <div class="col-md-offset-2 col-md-10">
+                                <input type="submit" value="Order" class="btn btn-default" />
+                            </div>
+                        </div>
+                        <script>
+                            $(document).ready(function () {
+                                $('.datepicker1').datepicker();
+                                $('.datepicker2').datepicker();
+                            });
+                        </script>
+                    }
+                </dl>
+            </div>
+        </div>
+    </div>
+<p>
+    @if (User.IsInRole("Eigenaar")) {
+    @Html.ActionLink("Edit", "Edit", new { id = Model.Kenteken }) <text>|</text>
+    }
+    @Html.ActionLink("Back to List", "Index")
+</p>

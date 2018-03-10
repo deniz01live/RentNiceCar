@@ -1,0 +1,51 @@
+﻿@model IEnumerable<RentNiceCar.Models.Invoice>
+@{
+    ViewBag.Title = "Beheer";
+}
+<h2>Beheer</h2>
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Kenteken)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.UserId)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.VanafDatum)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.TotDatum)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.InleverDatum)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Kenteken)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.UserId)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.VanafDatum)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.TotDatum)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.InleverDatum)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.InvoiceId }) |
+            @Html.ActionLink("Details", "View", new { id=item.InvoiceId }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.InvoiceId })
+        </td>
+    </tr>
+}
+</table>
